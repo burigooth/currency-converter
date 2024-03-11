@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.47.0",
+    "flag-icons": "^7.2.0"
+  }
+}
