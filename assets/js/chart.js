@@ -1,4 +1,4 @@
-const options = {
+    const options = {
     series: [
       {
         name: "cambio",
@@ -96,5 +96,4 @@ const options = {
     },
   }
   
-  const chart = new ApexCharts(document.querySelector("#chart"), options)
-  chart.render()
+ export { options };

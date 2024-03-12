@@ -106,6 +106,9 @@ section h2{
     cursor: pointer;
 }
 
+.middle {
+    cursor: pointer;
+}
 .selected::before{
     content: "";
     height: 2.4rem;
@@ -120,7 +123,7 @@ section h2{
     content: "";
     width: 2.4rem;
     height: 2.4rem;
-    background: url(assets/svg/Vector.svg) no-repeat;
+    background: url('/assets/svg/Vector.svg') no-repeat;
     
     
 }
